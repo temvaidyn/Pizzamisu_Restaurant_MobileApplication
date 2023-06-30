@@ -15,8 +15,10 @@ The objective of the project is listed below:
 ### To view the web version of a project in a browser: [View on Browser](https://restaurant-mobile-application-rfpcan.flutterflow.app/).
 
 ### Snaps of the project:
+#### Home page on iPhone SE
 <img width="1440" alt="Screen Shot 2023-06-30 at 15 05 53" src="https://github.com/temvaidyn/Pizzamisu_Restaurant_MobileApplication/assets/85300886/773d2047-6332-427f-9c28-313887eaeff8">
 
+#### All the pages of the mobile application 
 <img width="1440" alt="Screen Shot 2023-06-30 at 15 06 04" src="https://github.com/temvaidyn/Pizzamisu_Restaurant_MobileApplication/assets/85300886/ccb49d6b-4140-46a8-8a18-e329b9169a8e">
 
 
