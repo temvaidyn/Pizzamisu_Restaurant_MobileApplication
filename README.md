@@ -13,3 +13,6 @@ The objective of the project is listed below:
 
 ### Please check out the video of the demonstration: [Watch the video](https://youtu.be/6BPKSdFs-0g).
 
+### To view the web version of a project in a browser: [View on Browser](https://restaurant-mobile-application-rfpcan.flutterflow.app/).
+
+
