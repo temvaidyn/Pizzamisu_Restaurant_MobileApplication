@@ -10,9 +10,13 @@ The objective of the project is listed below:
 - Evaluate the impact of a mobile application on customer satisfaction and loyalty.
 - Identifying issues that arose during the development of a mobile application and proposing solutions.
 
-
 ### Please check out the video of the demonstration: [Watch the video](https://youtu.be/6BPKSdFs-0g).
 
 ### To view the web version of a project in a browser: [View on Browser](https://restaurant-mobile-application-rfpcan.flutterflow.app/).
+
+### Snaps of the project:
+<img width="1440" alt="Screen Shot 2023-06-30 at 15 05 53" src="https://github.com/temvaidyn/Pizzamisu_Restaurant_MobileApplication/assets/85300886/773d2047-6332-427f-9c28-313887eaeff8">
+
+<img width="1440" alt="Screen Shot 2023-06-30 at 15 06 04" src="https://github.com/temvaidyn/Pizzamisu_Restaurant_MobileApplication/assets/85300886/ccb49d6b-4140-46a8-8a18-e329b9169a8e">
 
 
